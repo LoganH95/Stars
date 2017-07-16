@@ -1,0 +1,40 @@
+<strings>
+    <string id="AppName">MultiFace</string>
+    
+    <string id ="title_color">Time Color</string>
+    	<string id = "invertString">Invert Colors</string> 
+
+        <string id = "opt_color_1">Blue</string>
+        <string id = "opt_color_2">White</string>
+        <string id = "opt_color_3">Green</string>
+        <string id = "opt_color_4">Dark Green</string>
+        <string id = "opt_color_5">Red</string>
+        <string id = "opt_color_6">Dark Red</string>
+        <string id = "opt_color_7">Yellow</string>
+        <string id = "opt_color_8">Dark Blue</string>
+        <string id = "opt_color_9">Orange</string>
+        <string id = "opt_color_10">Pink</string>
+        <string id = "opt_color_11">Purple</string>
+        <string id = "opt_color_12">Gray</string>
+        <string id = "opt_color_13">Dark Gray</string>
+        <string id = "opt_color_14">Black</string>
+        
+        <string id = "LayoutString">Layout</string>
+       	
+       	<string id = "Classic">Classic</string>
+       	<string id = "Classic_Big">Classic Big</string>
+       	<string id = "Minimal">Minimal</string>
+       	<string id = "Minimal_Icons">Minimal Icons</string>
+       	<string id = "Minimal_Expanded">Minimal Expanded</string>
+       	<string id = "Minimal_Battery">Minimal Battery</string>
+       	<string id = "Corners">Corners</string>
+       	<string id = "Expanded">Expanded</string>
+       	<string id = "Line">Line</string>
+       	<string id = "Heart_Rate">Heart Rate</string>
+       	<string id = "Heart_Rate_Corners">Heart Rate Corners</string>
+       	<string id = "Off">Off</string>
+       	
+       	<string id = "seconds_title">Seconds</string>
+       	
+        <string id = "dateString">European Date Format</string>
+</strings>
